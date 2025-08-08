@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "995519333630",
+    "project_id": "quiz-application-84d34",
+    "storage_bucket": "quiz-application-84d34.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995519333630:android:250b6eca80c2cf9bbc11af",
+        "android_client_info": {
+          "package_name": "com.SounderjaBhadra.quizapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw7Y5722yS5xGxOXGKlChYU4dA-FKNCT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
