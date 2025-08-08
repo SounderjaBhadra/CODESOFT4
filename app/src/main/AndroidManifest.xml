@@ -17,9 +17,7 @@
         <activity
             android:name=".QuestionActivityXml"
             android:exported="false" />
-        <activity
-            android:name=".MainActivity2"
-            android:exported="false" />
+
         <activity
             android:name=".QuestionActivitySql"
             android:exported="false" />
@@ -32,9 +30,7 @@
         <activity
             android:name=".QuestionAcitivityPython"
             android:exported="false" />
-        <activity
-            android:name=".QuestionActivityPython"
-            android:exported="false" />
+
         <activity
             android:name=".QuestionActivityKotlin"
             android:exported="false" />
